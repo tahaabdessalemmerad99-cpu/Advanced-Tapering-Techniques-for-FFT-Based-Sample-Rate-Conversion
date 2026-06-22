@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Python_like_Figure_ALL_WINDOWS_Heatmap.m
-%
+% Code03
 % Faithful MATLAB translation of:
 % example.py / taper.py / resamp.py
 %
