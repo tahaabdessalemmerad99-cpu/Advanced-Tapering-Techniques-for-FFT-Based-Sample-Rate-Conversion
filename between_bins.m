@@ -497,7 +497,7 @@ fprintf('Largest low-frequency difference at %.6f Hz\n',f_diff);
 % ZOOM AROUND THE LARGEST DIFFERENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-zoom_width = 0.6;   % Zoom شديد
+zoom_width = 0.6;   % Zoom 
 
 idx_zoom = ...
     (f_hr >= f_diff-zoom_width) & ...
