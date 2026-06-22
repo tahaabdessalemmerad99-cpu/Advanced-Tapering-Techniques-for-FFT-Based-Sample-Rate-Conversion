@@ -24,5 +24,6 @@ Implements the reference FFT-SRC benchmark using a synthetic test signal and com
 ### Code04 – Low-Frequency and Between-Bin Analysis
 
 Investigates the influence of DDC tapering on low-frequency spectral components and performs high-resolution FFT analysis to study spectral differences between FFT bins.
+
 ##------------------------------------------------------------------------------------------------------
 
