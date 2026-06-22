@@ -1,6 +1,6 @@
 # Advanced-Tapering-Techniques-for-FFT-Based-Sample-Rate-Conversion
 MATLAB implementation of FFT-based sample rate conversion and DDC taper analysis.
-##------------------------------------------------------------------------------------------------------
+
 ## MATLAB Scripts
 
 ### Code01 – Taper Generation and Impulse Response Analysis
@@ -25,5 +25,5 @@ Implements the reference FFT-SRC benchmark using a synthetic test signal and com
 
 Investigates the influence of DDC tapering on low-frequency spectral components and performs high-resolution FFT analysis to study spectral differences between FFT bins.
 
-##------------------------------------------------------------------------------------------------------
+
 
