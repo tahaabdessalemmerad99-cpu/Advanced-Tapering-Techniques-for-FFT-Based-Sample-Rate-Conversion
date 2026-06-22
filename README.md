@@ -25,7 +25,6 @@ Implements the reference FFT-SRC benchmark using a synthetic test signal and com
 
 Investigates the influence of DDC tapering on low-frequency spectral components and performs high-resolution FFT analysis to study spectral differences between FFT bins.
 
-## MATLAB Scripts
 
 |  Code  |              File                 |                   Description                  |
 |--------|-----------------------------------|------------------------------------------------|
