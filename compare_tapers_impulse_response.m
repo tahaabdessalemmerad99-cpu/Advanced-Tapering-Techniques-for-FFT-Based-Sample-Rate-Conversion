@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % compare_tapers_impulse_response.m
-%
+% Code01
 % Impulse response comparison for:
 % - No taper
 % - Cosine
